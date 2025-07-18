@@ -10,7 +10,6 @@
 
 ### 🙋‍♂️ Sobre mí:
 - 🌱 Actualmente estoy aprendiendo **tecnologías avanzadas de desarrollo web y machine learning**.  
-- 👨‍💻 He trabajado en proyectos personales como **CitaMatch**, una plataforma de encuentros diseñada para conectar personas, y **MiniMarket**, un sistema para la gestión de inventarios y ventas en pequeñas empresas.  
 - 💬 Pregúntame sobre **Java, C++, SQL, Python, Struts 2, HTML, CSS o JavaScript**, estaré encantado de ayudarte.  
 - 📫 Puedes contactarme en: **juangrabielbarbozarivera12@gmail.com**  
 - ⚡ Dato curioso: Disfruto encontrar soluciones creativas a problemas complejos.  
